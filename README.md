@@ -15,5 +15,5 @@
 - rm r removes the folder 
 - sudo is something we should stay away 
 
-## The computer is a bicylce for the brain 
+## The computer is a bicycle for the brain 
 ### I feel this is an interesting concept and I think it helps visualize what we're doing. 

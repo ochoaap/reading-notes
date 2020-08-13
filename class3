@@ -1,0 +1,12 @@
+#Reading for August 12th Day 3 of class 
+
+##What I read today 
+-Git and what it is
+-git is a DCVS (Distributed Version Control systems)
+- There are local versions of DCVS'
+-ACP or Adding, commiting, pushing
+
+## ACP 
+### this is where we can add or change something within the file, but then we are able to commit the changes and tehn push the changes out to the website, for here it owuld be github. 
+- make sure to check the status between all of these changes to ensure everything is running smoothly 
+### This reading also went over commands on how to clone as well as install on multiple machines

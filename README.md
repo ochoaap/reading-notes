@@ -14,5 +14,5 @@
 ### The idea or mentality that we as people are always learning and should always be striving to be better. 
 
 ### Table of Contents for my days 
-1. Class 3 - [Click Here](Class03)
+1. Class 3 - [Click Here](Class3)
 1. Class 4 - [Click Here](Class04)

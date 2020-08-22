@@ -43,4 +43,4 @@
 
 
 
-Return to Main Page [Click Here](https://ochoaap.github.io/reading-notes/)
+[Click Here to return to main page](https://ochoaap.github.io/)

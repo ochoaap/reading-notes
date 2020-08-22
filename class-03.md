@@ -20,6 +20,16 @@
     * Furthering my knowledge on what Github offers 
 4. I am excited for HTML and CSS as well as other languages that come with this environment 
 
+### I am currently updating from my computer and VIsual Studio! 
+
+I have offically learend how to clone and ACP or 
+* Add 
+* Commit 
+* Push 
+
+I will be adding this and a live URL to finish my third Assignment for day three! 
+
+# I am pretty stoked that I can do this on my computer! 
 
 
 

@@ -13,3 +13,5 @@
 ### In simple terms, a growth mindset to me is the mindset that enables and motivates growth and change in a person 
 ### The idea or mentality that we as people are always learning and should always be striving to be better. 
 
+
+[Click Here for Main Page](https://ochoaap.github.io/)

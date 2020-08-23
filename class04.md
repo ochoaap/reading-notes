@@ -24,7 +24,7 @@
 		* Links to navigate
 		* Login or memberships
 		* Privacy policies 
-Prioritizing - not everything can look the same or it may be hard to read or understand. prioritizing certain things such as links or logins
+Prioritizing - not everything can look the same or it may be hard to read or understand. prioritizing certain things such as links or logins.
 make it easier to locate them, while the actual content (a news site for example) may have a stylistic font
 Organizing Grouping things together in blocks to make it easier to navigate or understand what we are looking at. 
 ### Size, Color, Style They all play vital roles in how things are seen creating a visual hierarchy 

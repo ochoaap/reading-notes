@@ -1,3 +1,4 @@
+
 # Class 04 
 ### what I learend today 
 
@@ -29,4 +30,3 @@ Organizing Grouping things together in blocks to make it easier to navigate or u
 ### Size, Color, Style They all play vital roles in how things are seen creating a visual hierarchy 
 
 HTML uses elements they have an opening and closing tag such as <body> </body> everything in between would be considered an element
-

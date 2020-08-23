@@ -29,6 +29,6 @@ make it easier to locate them, while the actual content (a news site for example
 Organizing Grouping things together in blocks to make it easier to navigate or understand what we are looking at. 
 ### Size, Color, Style They all play vital roles in how things are seen creating a visual hierarchy 
 
-HTML uses elements they have an opening and closing tag such as <body> </body> everything in between would be considered an element
+HTML uses elements they have an opening and closing tag such as <body> </body> everything in between would be considered an element.
 
 [Click here for main page](https://ochoaap.github.io/) 

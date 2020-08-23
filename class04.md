@@ -20,7 +20,7 @@
 	* A sketch of what the website will be
 5. What a wireframe consists of
 	* Content
-		* Msthead or logo
+		* Masthead or logo
 		* Links to navigate
 		* Login or memberships
 		* Privacy policies 
@@ -30,3 +30,5 @@ Organizing Grouping things together in blocks to make it easier to navigate or u
 ### Size, Color, Style They all play vital roles in how things are seen creating a visual hierarchy 
 
 HTML uses elements they have an opening and closing tag such as <body> </body> everything in between would be considered an element
+
+[Click here for main page](https://ochoaap.github.io/) 

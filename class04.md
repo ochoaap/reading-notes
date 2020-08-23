@@ -1,13 +1,13 @@
 
 # Class 04 
-### what I learend today 
+### what I learned today 
 
 ### With regards to my websites
 1. who is my audience 
 2. Why are they visiting my website 
 	* what are their motivations 
 	* what are they trying to achieve
-3. What information do my visotrs need 
+3. What information do my visitors need 
 	* Will they be familiar with whatever my website is about 
 	* What are the most important features 
 	* Whats special about my site 

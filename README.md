@@ -1,4 +1,7 @@
 # My name is Anthony and this is my Reading Notes page! 
+## Disclaiamer 
+I came from a different class where everything was done in a different order. I am not making this my main page as well as my second day page. 
+
 ### Day two of Class 
 
  Today we set up our computers with Terminal and Unbuntu. 
@@ -14,4 +17,6 @@
 ### The idea or mentality that we as people are always learning and should always be striving to be better. 
 
 
-[Click Here for Main Page](https://ochoaap.github.io/)
+[Click Here for class03](https://ochoaap.github.io/reading-notes/class-03)
+[Click Here for Class04](https://ochoaap.github.io/reading-notes/class04)
+[Click Here for CLass05](https://ochoaap.github.io/reading-notes/class05)

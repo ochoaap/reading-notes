@@ -31,4 +31,4 @@ Organizing Grouping things together in blocks to make it easier to navigate or u
 
 HTML uses elements they have an opening and closing tag such as <body> </body> everything in between would be considered an element.
 
-[Click here for main page](https://ochoaap.github.io/) 
+[Click here for main page](https://ochoaap.github.io/reading-notes/) 

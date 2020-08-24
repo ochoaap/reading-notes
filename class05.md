@@ -21,4 +21,4 @@ Opacity is how much something is transparent or not. the value is 0.0 - 1.0.
 
 # I am very interested and excited to work with CSS! 
 
-[Click Here for Main Page](https://ochoaap.github.io/)
+[Click Here for Main Page](https://ochoaap.github.io/reading-notes/)

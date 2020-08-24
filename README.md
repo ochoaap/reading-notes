@@ -1,5 +1,5 @@
 # My name is Anthony and this is my Reading Notes page! 
-## Disclaiamer 
+## Disclaimer 
 I came from a different class where everything was done in a different order. I am not making this my main page as well as my second day page. 
 
 ### Day two of Class 
@@ -18,5 +18,7 @@ I came from a different class where everything was done in a different order. I 
 
 
 [Click Here for class03](https://ochoaap.github.io/reading-notes/class-03)
+
 [Click Here for Class04](https://ochoaap.github.io/reading-notes/class04)
+
 [Click Here for CLass05](https://ochoaap.github.io/reading-notes/class05)

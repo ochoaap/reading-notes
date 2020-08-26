@@ -56,3 +56,9 @@ Hardwar
 		* the case, the hardrive, the key board
 Software 
 	* Everything that actually makes the computer run. 
+
+# Reading Notes Assignment Part 2! 
+
+Today we worked on Javascript and after a few hiccups I was able to get the page to work well. I think the biggest issue or challenge that I will face is finding the minute errors. For example when I copied and pasted the code it had // in front of two of the codes which stoppe it from working, but I managed to see the difference and it worked. 
+
+I think Javascript will be something incredibly fun to work with while being incredibly difficult at the same time. 

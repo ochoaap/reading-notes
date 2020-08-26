@@ -22,4 +22,7 @@ I came from a different class where everything was done in a different order. I 
 [Click Here for Class04](https://ochoaap.github.io/reading-notes/class04)
 
 [Click Here for CLass05](https://ochoaap.github.io/reading-notes/class05)
+
 [Click here for Class06](https://ochoaap.github.io/reading-notes/class06)
+
+[Click here for Class07](https://ochoaap.github.io/reading-notes/class07)

@@ -15,7 +15,7 @@
 ## My *Why*! 
 **My daughter is my why** She is the reason I am working so hard and trying to make a different and better life for her! 
 
-#Table of Contents
+# Table of Contents
 1. Daily Reading Assignment
 1. Daily Reading Assignment
 1. Daily Reading Assignment

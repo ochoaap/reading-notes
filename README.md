@@ -28,3 +28,5 @@ I came from a different class where everything was done in a different order. I 
 [Click here for Class07](https://ochoaap.github.io/reading-notes/class07)
 
 [Click here for Class08](https://ochoaap.github.io/reading-notes/class08)
+
+[click here for 201 notes](201/201class01.md)

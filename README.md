@@ -31,4 +31,4 @@ I came from a different class where everything was done in a different order. I 
 
 [click here for 201 notes](201/201class01.md)
 
-[Click here for Assignment 1](201/readingnotes01.md) 
+[Click here for Assignment 1](201/class01.md) 

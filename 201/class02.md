@@ -6,7 +6,7 @@ There are a lot of markup tags (for example the "#" is the one I am using above.
 * *<i> = is italics. See what I did there?
 * Superscript and Subscript are a little more tricky to explain. Superscript is mainly for mathematical, dates, and suffixes. While Subscripts 
 are what make teh the "2" in H2O smaller in a word document. 
-* "<s>" was interesting to me as it is something that is no longer valid or relevant, but shouldjn't be deleted either. I am curoious as to 
+* The symbol I wanted to use was creating a strike through for this entire page, so it is simply an "s" but in between <>. This was interesting to me as it is something that is no longer valid or relevant, but shouldjn't be deleted either. I am curoious as to 
 what situation would call for that. 
 
 # CSS 

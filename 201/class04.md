@@ -3,7 +3,7 @@
 > Many people navigate websites by scanning for the text for links. 
 Links are very important in a website, and almost everything that's clickable
 is a type of link it seems. 
-==Absolute URL's vs Relative URL's==
+### Absolute URL's vs Relative URL's
 Absloute URL's are what you would type into a browser, ie Facebook.com, you 
 could add facebook.com/anthonyochoa and get my facebook page (theoretically, as
 this is not my actual URL). Where as Relative URL, would be like clicking on 

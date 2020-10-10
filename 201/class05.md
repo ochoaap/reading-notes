@@ -7,7 +7,7 @@
 1. Save images at the right size. 
 1. Measure images in pixels. 
 ### How to add images 
-* "<img>" 
+* "img" 
 	* "src" tells where the image can be found
 	* "alt" - provides a text description 
 	* "title" can be used to provide additional information 

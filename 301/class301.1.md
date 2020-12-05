@@ -60,3 +60,5 @@ Clear has four valid values just like Float does
 
 ### Alternatives 
 There doesnt seem to be very many Alternatives to Float. 
+
+[Return to Main](201class01.md)

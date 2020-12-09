@@ -1,3 +1,6 @@
+# Reading Notes 301 
+[Class 2](class301.1.md)
+
 # Class 1 
 
 ## Responsive Wed Design. 

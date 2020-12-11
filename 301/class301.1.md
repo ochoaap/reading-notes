@@ -64,4 +64,4 @@ Clear has four valid values just like Float does
 ### Alternatives 
 There doesnt seem to be very many Alternatives to Float. 
 
-[Return to Main](../201/class.03.md)
+[Return to Main](../201/class01.md)

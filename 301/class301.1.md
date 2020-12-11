@@ -1,5 +1,5 @@
 # Reading Notes 301 
-[Class 2](../class301.2.md)
+[Class 2](../301/class301.2.md)
 
 # Class 1 
 
@@ -64,4 +64,4 @@ Clear has four valid values just like Float does
 ### Alternatives 
 There doesnt seem to be very many Alternatives to Float. 
 
-[Return to Main](.../201class01.md)
+[Return to Main](../201/class.03.md)
